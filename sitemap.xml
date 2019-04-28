@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leg100.github.io/categories/</loc>
+    <loc>https://leg100.github.io/</loc>
+    <lastmod>2019-04-28T18:44:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leg100.github.io/</loc>
+    <loc>https://leg100.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-04-28T18:44:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leg100.github.io/posts/</loc>
+    <lastmod>2019-04-28T18:44:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leg100.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
